@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Era Nero? - Menu di Capodanno</title>
+    <style>
+        body { font-family: Arial, sans-serif; line-height: 1.6; color: #333; max-width: 800px; margin: 0 auto; padding: 20px; background-color: #f4f4f4; }
+        .menu-container { background-color: #fff; padding: 40px; border-radius: 8px; box-shadow: 0 0 10px rgba(0,0,0,0.1); }
+        h1, h2, h3 { text-align: center; color: #000; text-transform: uppercase; }
+        .section { margin-bottom: 30px; border-bottom: 1px solid #eee; padding-bottom: 20px; }
+        .section:last-child { border-bottom: none; }
+        .category { font-weight: bold; font-size: 1.2em; color: #d32f2f; margin-top: 20px; }
+        .item { font-weight: bold; margin-top: 10px; }
+        .ingredients { font-style: italic; font-size: 0.9em; color: #666; margin-left: 20px; }
+        .note { font-size: 0.85em; text-align: center; color: #777; margin-top: 5px; }
+        .hero { color: #d32f2f; font-weight: bold; text-align: center; }
+    </style>
+</head>
+<body>
+
+<div class="menu-container">
+    <header>
+        [cite_start]<h1>Era Nero? [cite: 1]</h1>
+        [cite_start]<h2>Lounge Bar [cite: 2]</h2>
+        [cite_start]<h3>Menù Godereccio di Capodanno [cite: 3]</h3>
+    </header>
+
+    <div class="section">
+        [cite_start]<h2>Menù Food [cite: 6]</h2>
+        
+        [cite_start]<div class="category">Antipasti: [cite: 5]</div>
+        [cite_start]<div class="item">Tagliere di Salumi e Formaggi [cite: 7]</div>
+        <div class="ingredients">Crudo, coppa, speck, salame, tacchino | [cite_start]Asiago, grana, pecorino [cite: 8]</div>
+        
+        [cite_start]<div class="item">Bruschette [cite: 9]</div>
+        [cite_start]<div class="ingredients">Pomodorini, salmone, tonno [cite: 10]</div>
+        
+        [cite_start]<div class="item">Caramelline di Pasta Sfoglia [cite: 11]</div>
+        [cite_start]<div class="ingredients">Pancetta, wurstel [cite: 12]</div>
+        
+        [cite_start]<div class="item">Chips [cite: 13]</div>
+        [cite_start]<div class="ingredients">Best buy della Primia [cite: 14]</div>
+
+        [cite_start]<div class="category">Piatto Unico: [cite: 15]</div>
+        [cite_start]<div class="item">Lasagne alla Bolognese [cite: 16]</div>
+        [cite_start]<div class="ingredients">Sfoglia, ragù bolognese, besciamella, parmigiano [cite: 17]</div>
+
+        [cite_start]<div class="category">Dolci: [cite: 18]</div>
+        [cite_start]<div class="item">Tiramisù [cite: 19]</div>
+        [cite_start]<div class="ingredients">Mascarpone, savoiardi, caffè, cacao [cite: 20]</div>
+        
+        [cite_start]<div class="item">Morelli's Dessert [cite: 21]</div>
+        [cite_start]<div class="ingredients">Specialità casalinghe di Morelli [cite: 22]</div>
+
+        [cite_start]<div class="category">Frutta: [cite: 23]</div>
+        [cite_start]<div class="item">Varie [cite: 24]</div>
+        [cite_start]<div class="ingredients">Fresca e secca [cite: 25]</div>
+    </div>
+
+    <div class="section">
+        [cite_start]<h2>Cocktails [cite: 29]</h2>
+        [cite_start]<p class="note">Tutti i cocktail sono accompagnati da CHIPS, non FRIES [cite: 28]</p>
+
+        [cite_start]<div class="category">Base Rum: [cite: 32]</div>
+        [cite_start]<div class="item">Mojito [cite: 33]</div>
+        [cite_start]<div class="ingredients">Rum, menta, lime, zucchero di canna, soda [cite: 34]</div>
+        [cite_start]<div class="item">Cuba Libre [cite: 35]</div>
+        [cite_start]<div class="ingredients">Rum, Coca Cola [cite: 36]</div>
+
+        [cite_start]<div class="category">Base Gin: [cite: 37]</div>
+        [cite_start]<div class="item">Gin Tonic [cite: 38]</div>
+        [cite_start]<div class="ingredients">Gin, tonica [cite: 39]</div>
+        [cite_start]<div class="item">Gin Lemon [cite: 40]</div>
+        [cite_start]<div class="ingredients">Gin, lemon soda [cite: 41]</div>
+        [cite_start]<div class="item">Negroni [cite: 42]</div>
+        [cite_start]<div class="ingredients">Gin, vermouth rosso, bitter [cite: 43]</div>
+        [cite_start]<div class="item">Martini Red [cite: 44]</div>
+        [cite_start]<div class="ingredients">Gin, vermouth rosso [cite: 45]</div>
+
+        [cite_start]<div class="category">Base Vodka: [cite: 46]</div>
+        [cite_start]<div class="item">Vodka Tonic [cite: 48]</div>
+        [cite_start]<div class="ingredients">Vodka, tonica [cite: 49]</div>
+        [cite_start]<div class="item">Vodka Lemon [cite: 50]</div>
+        [cite_start]<div class="ingredients">Vodka, lemon soda [cite: 51]</div>
+        [cite_start]<div class="item">Vodka Redbull [cite: 52]</div>
+        [cite_start]<div class="ingredients">Vodka, Red Bull [cite: 53]</div>
+        [cite_start]<div class="item">Screwdriver [cite: 54]</div>
+        [cite_start]<div class="ingredients">Vodka, succo d'arancia [cite: 55]</div>
+
+        [cite_start]<div class="category">Base Malibù: [cite: 56]</div>
+        [cite_start]<div class="item">Malibù Ananas [cite: 57]</div>
+        [cite_start]<div class="ingredients">Malibù, succo d'ananas [cite: 58]</div>
+        [cite_start]<div class="item">Malibù Cola [cite: 59]</div>
+        [cite_start]<div class="ingredients">Malibù, Coca Cola [cite: 60]</div>
+
+        [cite_start]<div class="category">Da Eroe: [cite: 62]</div>
+        [cite_start]<div class="item">Bloody Mary [cite: 63]</div>
+        [cite_start]<p class="note">Soltanto per eroi [cite: 65]</p>
+
+        [cite_start]<div class="category">Vari: [cite: 64]</div>
+        [cite_start]<div class="item">Spritz [cite: 66]</div>
+        [cite_start]<div class="ingredients">Aperol, prosecco, tonica [cite: 67]</div>
+    </div>
+
+    <div class="section">
+        [cite_start]<h2>Distillati [cite: 68]</h2>
+        <ul>
+            [cite_start]<li>Disaronno [cite: 70]</li>
+            [cite_start]<li>Bacardi [cite: 72]</li>
+            [cite_start]<li>Sambuca - La Perla Bianca [cite: 73]</li>
+        </ul>
+
+        [cite_start]<h2>Shot [cite: 74]</h2>
+        <ul>
+            [cite_start]<li>Vodka [cite: 75]</li>
+            [cite_start]<li>Rum Bianco [cite: 76]</li>
+            [cite_start]<li>Sambuca [cite: 77]</li>
+        </ul>
+    </div>
+</div>
+
+</body>
+</html>
